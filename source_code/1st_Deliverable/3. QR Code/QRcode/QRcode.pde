@@ -1,6 +1,4 @@
 
-import processing.video.*;
-
 import qrcodeprocessing.*;
 
 PImage img; 
