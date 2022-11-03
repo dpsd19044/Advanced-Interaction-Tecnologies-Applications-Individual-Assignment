@@ -2,9 +2,9 @@
 
 ### First and Last Name: Dimitris Ioannis Kamperakis
 ### University Registration Number: dpsd19044
-### GitHub Personal Profile: <a href="https://github.com/dpsd19044">github/dpsd19044</a>
+### GitHub Personal Profile: <a href="https://github.com/dpsd19044">Lets_go_on_my_Profile</a>
 
-### Advanced Interaction Tecnologies & Applications Github Personal Repository: <a href="https://github.com/dpsd19044/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment"></a>
+### Advanced Interaction Tecnologies & Applications Github Personal Repository: <a href="https://github.com/dpsd19044/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment">ClIcK</a>
 
 # Introduction
 
