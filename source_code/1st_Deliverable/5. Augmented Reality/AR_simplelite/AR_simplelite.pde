@@ -5,15 +5,15 @@ Capture cam;
 MultiMarker nya;
 PImage img;
 
-
 void setup() 
 {
   size(640,480,P3D);
   colorMode(RGB, 100);
   println(MultiMarker.VERSION);
   cam=new Capture(this,640,480);
-  nya=new MultiMarker(this,width,height,"../simplelite/data/camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
-  nya.addARMarker("../simplelite/data/patt.hiro",80);
+  nya=new MultiMarker(this,width,height,"DATA/camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
+  nya.addARMarker("DATA/patt.hiro",80);
+  img=loadImage("Drwaing.jpg");
   cam.start();
 }
 
@@ -23,7 +23,6 @@ void draw()
   {
       return;
   }
-  
   cam.read();
   nya.detect(cam);
   background(0);
@@ -35,8 +34,6 @@ void draw()
   }
   
   nya.beginTransform(0);
-  fill(0,0,255);
-  translate(0,0,20);
-  box(40);
+  image(img,0,0,width,height);
   nya.endTransform();
 }
