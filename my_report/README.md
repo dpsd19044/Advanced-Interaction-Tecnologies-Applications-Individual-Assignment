@@ -27,7 +27,8 @@
 <strong> 2. Recorded Video <br>
 Στο δεύτερο task: <br>
 Χρησιμοποίησα το <a href="https://processing.org/tutorials/video#live-video"> step 5. Display the movie.</a>
-και τα προtινόμενα παραδείγματα των οδηγιών. <br>
+και τα προτινόμενα παραδείγματα των οδηγιών. <br>
+Έκανα εισαγωγή ενα βίντο που είχα στα αρχεία μου και αποθηκέυσα το αρχείο .pde και .MOV στον ίδιο φάκελο. <br>
 
 
 # 2nd Deliverable
