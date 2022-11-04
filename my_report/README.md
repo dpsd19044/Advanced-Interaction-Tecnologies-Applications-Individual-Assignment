@@ -13,10 +13,11 @@
 
 # 1st Deliverable
 1.Video Capture
-Για το πρώτο task: 
+Για το πρώτο task: <br>
 Διάβασα τα <a href="https://processing.org/tutorials/video#live-video">online tutorial</a> και
-<a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">examplpe 16.01</a>.
-Κατέβασα τη βιβλιοθήκη "Vdeo Library for Processing 3" μέσω του Contribution Manager στο Processing.
+<a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">examplpe 16.01</a>. <br>
+Κατέβασα τη βιβλιοθήκη "Vdeo Library for Processing 3" μέσω του Contribution Manager στο Processing.<br>
+
 <strong>ΠΡΟΒΛΗΜΑΤΑ<strong>
 Ενώ είχα κατεβάσει (όπως μ έδειχνε και o manager) τη βιβλιοθήκη 
 όποτε το έτρεχα μου έβγαζε συνεχώς error <br>
