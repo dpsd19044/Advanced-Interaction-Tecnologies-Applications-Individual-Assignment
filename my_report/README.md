@@ -12,7 +12,7 @@
 
 
 # 1st Deliverable
-<strong> 1.Video Capture <strong>
+<strong> 1.Video Capture <strong> <br>
 Για το πρώτο task: <br>
 Διάβασα τα <a href="https://processing.org/tutorials/video#live-video">online tutorial</a> και
 <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">examplpe 16.01</a>. <br>
