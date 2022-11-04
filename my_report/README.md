@@ -20,8 +20,8 @@
 ΠΡΟΒΛΗΜΑΤΑ
 Ενώ είχα κατεβάσει (όπως μ έδειχνε και o manager) τη βιβλιοθήκη 
 όποτε το έτρεχα μου έβγαζε συνεχώς error
-![alt text](http://url/to/ERROR_PC.png)
-<img src="ERRO_LAPTOP.png">
+![ERROR_PC](https://user-images.githubusercontent.com/101420117/199962483-14a08308-bf9c-4f43-b730-6cf3ab5acb26.png)
+![ERRO_LAPTOP](https://user-images.githubusercontent.com/101420117/199962521-20ea49ad-1091-407d-8b52-dff76ec76ab5.png)
 
 
 
