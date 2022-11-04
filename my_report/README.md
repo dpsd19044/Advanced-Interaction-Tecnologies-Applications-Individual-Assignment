@@ -16,13 +16,11 @@
 Για το πρώτο task: <br>
 Διάβασα τα <a href="https://processing.org/tutorials/video#live-video">online tutorial</a> και
 <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">examplpe 16.01</a>. <br>
-Κατέβασα τη βιβλιοθήκη "Vdeo Library for Processing 3" μέσω του Contribution Manager στο Processing.<br>
-
-<strong>ΠΡΟΒΛΗΜΑΤΑ<strong>
-Ενώ είχα κατεβάσει (όπως μ έδειχνε και o manager) τη βιβλιοθήκη 
+Κατέβασα τη βιβλιοθήκη "Vdeo Library for Processing 3" μέσω του Contribution Manager (όπως μ έδειχνε και o manager) 
+στο Processing και
 όποτε το έτρεχα μου έβγαζε συνεχώς error <br>
-![ERROR_PC](https://user-images.githubusercontent.com/101420117/199962483-14a08308-bf9c-4f43-b730-6cf3ab5acb26.png)
-![ERRO_LAPTOP](https://user-images.githubusercontent.com/101420117/199962521-20ea49ad-1091-407d-8b52-dff76ec76ab5.png)
+<u>Στο PC</u>![ERROR_PC](https://user-images.githubusercontent.com/101420117/199962483-14a08308-bf9c-4f43-b730-6cf3ab5acb26.png)
+<u>Στο Laptop</u>![ERRO_LAPTOP](https://user-images.githubusercontent.com/101420117/199962521-20ea49ad-1091-407d-8b52-dff76ec76ab5.png)
 
 
 
