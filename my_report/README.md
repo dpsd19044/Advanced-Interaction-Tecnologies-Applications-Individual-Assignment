@@ -22,7 +22,7 @@
 ![ERROR_PC](https://user-images.githubusercontent.com/101420117/199962483-14a08308-bf9c-4f43-b730-6cf3ab5acb26.png) <br>
 Στο Laptop<br>
 ![ERRO_LAPTOP](https://user-images.githubusercontent.com/101420117/199962521-20ea49ad-1091-407d-8b52-dff76ec76ab5.png) <br>
-Οπότε εμπιστεύτηκα το παράδειγμα :) <br>
+Οπότε εμπιστεύτηκα το παράδειγμα :) 
 
 2. Recorded Video <br>
 Στο δεύτερο task xρησιμοποίησα το <a href="https://processing.org/tutorials/video#live-video"> step 5. Display the movie.</a> και τα προτινόμενα παραδείγματα των οδηγιών. <br>
