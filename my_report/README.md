@@ -20,7 +20,7 @@
 ΠΡΟΒΛΗΜΑΤΑ
 Ενώ είχα κατεβάσει (όπως μ έδειχνε και o manager) τη βιβλιοθήκη 
 όποτε το έτρεχα μου έβγαζε συνεχώς error
-<img src="ERROR_PC.png">
+![alt text](http://url/to/ERROR_PC.png)
 <img src="ERRO_LAPTOP.png">
 
 
