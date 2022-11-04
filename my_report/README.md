@@ -31,9 +31,14 @@
 3.QR Code <br>
 Κατέβασα το <a href="https://shiffman.net/p5/qrcode-processing/">Processing QRCode Library</a> και συνδίασα τις οδηγίες του μαζί με το <a href="http://learningprocessing.com/examples/chp15/example-15-01-drawimage">Draw Image 15.1</a>. <br>
 Δημιούργησα το δικό μου QR Code μέσω του προτινόμενου <a href="https://qrcode.kaywa.com/">site</a>. <br>
-![Screenshot (269)](https://user-images.githubusercontent.com/101420117/199991268-a3d6e659-793a-4c9d-83db-c4fe747df9c1.png)
+![Screenshot (270)](https://user-images.githubusercontent.com/101420117/199996899-c5d5b7c6-9dfb-4ce7-94c1-c9765500a366.png)
 
+4.QR Code - Camera Read <br>
+Χρησιμοποίησα τον κώδικα QRCodeExample και το προσάρμοσα αναλόγως.<br>
 
+5.Augmented Reality <br>
+Κατέβααα την βιβλιοθήκη <a href="https://github.com/nyatla/NyARToolkit-for-Processing/releases">NyARToolkit</a> και όλα τα αρχεία που είχε μέσα της.<br>
+Έφτιαξα τον φάκελο που έχει μέσα όλα τα DATA και την εικόνα που βγαίνει μεσω του scan <br> και χρησιμοποίησα το προτεινόμενο simpleLite παράδειγμα. <br>
 
 # 2nd Deliverable
 
