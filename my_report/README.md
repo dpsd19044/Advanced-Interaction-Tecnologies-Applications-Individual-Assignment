@@ -48,7 +48,11 @@
 # 2nd Deliverable
 1.Background Removal<br>
 ---------------------------
-Χρησιμοποίησα το Example 16-12 και ατικατέστησα το color(0,255,0) στο Pixels[loc] με το  backgroundReplace.pixels[loc].
+Χρησιμοποίησα το Example 16-12 και ατικατέστησα το color(0,255,0) στο Pixels[loc] με το  backgroundReplace.pixels[loc]. Αντικατέστησα την εικόνα με το βίντεο μέσω του Movie BackgroundReplace.
+
+2.Motion Detection<br>
+---------------------------
+Μελέτησα το  Example 16-11, Example 16-13 και το Exercise 16-7. Ουσιαστικά άλλαξα το float threshold se 100 και το χώμα του κύκλου σε ροζ
 
 
 # 3rd Deliverable 
