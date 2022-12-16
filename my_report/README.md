@@ -46,6 +46,9 @@
 Έφτιαξα τον φάκελο που έχει μέσα όλα τα DATA και την εικόνα που βγαίνει μεσω του scan <br> και χρησιμοποίησα το προτεινόμενο simpleLite παράδειγμα. <br>
 
 # 2nd Deliverable
+1.Background Removal<br>
+---------------------------
+Χρησιμοποίησα το Example 16-12 και ατικατέστησα το color(0,255,0) στο Pixels[loc] με το  backgroundReplace.pixels[loc].
 
 
 # 3rd Deliverable 
