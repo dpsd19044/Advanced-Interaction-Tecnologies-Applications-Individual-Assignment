@@ -76,6 +76,7 @@
 Μετέφερα το φάκελο TUIO χειροκίνητα στον φάκελο libraries του processing μου και απο το παράδειγμα TuioDump πήρα τον κώδικα:   println("add obj "+tobj.getSymbolID()+" ("+tobj.getSessionID()+") "+tobj.getX()+" "+tobj.getY()+" "+tobj.getAngle()); <br>
 και το πρόσθεσα στο TuioDemo.
 
+![SimulatorRuns](https://user-images.githubusercontent.com/101420117/212293729-6a79b708-d0cf-4f9e-93c5-26d058739f03.png)
 
 
 # Bonus 
