@@ -76,7 +76,14 @@
 Μετέφερα το φάκελο TUIO χειροκίνητα στον φάκελο libraries του processing μου και απο το παράδειγμα TuioDump πήρα τον κώδικα:   println("add obj "+tobj.getSymbolID()+" ("+tobj.getSessionID()+") "+tobj.getX()+" "+tobj.getY()+" "+tobj.getAngle()); <br>
 και το πρόσθεσα στο TuioDemo.
 
-![SimulatorRuns](https://user-images.githubusercontent.com/101420117/212293729-6a79b708-d0cf-4f9e-93c5-26d058739f03.png)
+![SimulatorRuns](https://user-images.githubusercontent.com/101420117/212293729-6a79b708-d0cf-4f9e-93c5-26d058739f03.png) <br>
+
+2.Image Processing Application
+---------------------------------
+Ουσιαστικά χρησιμοποίησα το παράδειγμα TUIO demo, άλλαξα το size σε (990,990) και πρόσθεσα τρείς εικόνες από το Laptop μου. Μέσω του <a https://processing.org/reference/filter_.html">site</a> έμαθα τις δυνατότητες που μου δίνονται για την επιλόγη των φίλτρων και πως να τα εισάγω στον κώδικα. Δημιούργησα τα ids για ta 0,1,2,3,4,5 fiducials. Σκοπός είναι να χρησιμοποίηθούν τα παρακάτω 6 εκτυπωμένα fiducials.
+![IMG_7423](https://user-images.githubusercontent.com/101420117/212317848-c431f46d-bad8-4e2a-b32c-429c4ef33fe0.jpg)
+Αλλα δεν καταάφερα να λύσω το παρακάτω error ώστε να μπορέσω να τα χρησιμοποιησώ και να δω το τελικό αποτέλεσμα στην οθόνη.
+![Screenshot (319)](https://user-images.githubusercontent.com/101420117/212318004-6460c305-8b34-44a1-9f2c-8a5106623513.png)
 
 
 # Bonus 
