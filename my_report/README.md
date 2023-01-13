@@ -96,13 +96,13 @@
 
 
 # Sources
-  <a href="https://processing.org/tutorials/video#live-video">online tutorial</a>
-  <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">examplpe 16.01</a>
-  <a href="https://processing.org/tutorials/video#live-video"> step 5. Display the movie.</a>
-  <a href="https://shiffman.net/p5/qrcode-processing/">Processing QRCode Library</a> 
-  <a href="http://learningprocessing.com/examples/chp15/example-15-01-drawimage">Draw Image 15.1</a>
-  <a href="https://qrcode.kaywa.com/">kaywa.com</a>
-  <a href="https://github.com/nyatla/NyARToolkit-for-Processing/releases">NyARToolkit</a>
-  <a href="https://www.youtube.com/watch?v=tJ0aZzST-N4&ab_channel=Roc%C3%ADoM%C3%A1rquez">βίντεο TUIO Demo + TUIO Simulator</a>
-  <a href="https://processing.org/reference/filter_.html">Filters</a> 
+  <a href="https://processing.org/tutorials/video#live-video">online tutorial</a> <br>
+  <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">examplpe 16.01</a> <br>
+  <a href="https://processing.org/tutorials/video#live-video"> step 5. Display the movie.</a> <br>
+  <a href="https://shiffman.net/p5/qrcode-processing/">Processing QRCode Library</a> <br>
+  <a href="http://learningprocessing.com/examples/chp15/example-15-01-drawimage">Draw Image 15.1</a> <br>
+  <a href="https://qrcode.kaywa.com/">kaywa.com</a> <br>
+  <a href="https://github.com/nyatla/NyARToolkit-for-Processing/releases">NyARToolkit</a> <br>
+  <a href="https://www.youtube.com/watch?v=tJ0aZzST-N4&ab_channel=Roc%C3%ADoM%C3%A1rquez">βίντεο TUIO Demo + TUIO Simulator</a> <br>
+  <a href="https://processing.org/reference/filter_.html">Filters</a> <br>
 
