@@ -80,13 +80,19 @@
 
 2.Image Processing Application
 ---------------------------------
-Ουσιαστικά χρησιμοποίησα το παράδειγμα TUIO demo, άλλαξα το size σε (990,990) και πρόσθεσα τρείς εικόνες από το Laptop μου. Μέσω του <a href="https://processing.org/reference/filter_.html">site</a> έμαθα τις δυνατότητες που μου δίνονται για την επιλόγη των φίλτρων και πως να τα εισάγω στον κώδικα. Δημιούργησα τα ids για ta 0,1,2,3,4,5 fiducials. Σκοπός είναι να χρησιμοποίηθούν τα παρακάτω 6 εκτυπωμένα fiducials.
-  
-![IMG_7423](https://user-images.githubusercontent.com/101420117/212317848-c431f46d-bad8-4e2a-b32c-429c4ef33fe0.jpg)
-  
-Αλλα δεν καταάφερα να λύσω το παρακάτω error ώστε να μπορέσω να τα χρησιμοποιησώ και να δω το τελικό αποτέλεσμα στην οθόνη.
-  
-![Screenshot (319)](https://user-images.githubusercontent.com/101420117/212318004-6460c305-8b34-44a1-9f2c-8a5106623513.png)
+Ουσιαστικά χρησιμοποίησα το παράδειγμα TUIO demo, άλλαξα το size σε (990,990) και πρόσθεσα τρείς εικόνες από το Laptop μου. Μέσω του <a href="https://processing.org/reference/filter_.html">site</a> έμαθα τις δυνατότητες που μου δίνονται για την επιλόγη των φίλτρων και πως να τα εισάγω στον κώδικα. Δημιούργησα τα ids για ta 0,1,2,3,4 fiducials.
+0_IMAGE
+![00IMAGE](https://user-images.githubusercontent.com/101420117/212354612-61827b9b-6754-4e3b-8c66-030d022cac5d.png)
+
+1_IMAGE
+  ![01IMAGE](https://user-images.githubusercontent.com/101420117/212354542-2c0ec6a7-15eb-4edc-9088-3ddfce00dcd8.png)
+GRAY FILTER
+![GRAY](https://user-images.githubusercontent.com/101420117/212354693-c1b073bb-189e-4af7-a821-b287cb5480bb.png)
+INVERTED FILTER
+![INVERTED](https://user-images.githubusercontent.com/101420117/212354742-bde1cf9a-607d-4d7e-8f42-6163d2a6e8a7.png)
+THRESHOLD FILTER
+![THRESHOLD](https://user-images.githubusercontent.com/101420117/212354772-888e5bda-9d99-4de1-842a-719656acc4e7.png)
+
 
 
 # Bonus 
