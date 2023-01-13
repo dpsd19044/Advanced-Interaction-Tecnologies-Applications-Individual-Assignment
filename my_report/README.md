@@ -90,6 +90,11 @@
 
 
 # Bonus 
+ Είμαι ομάδα μαζί με: <br>
+ την Χριστίνα Γαλάνη <a href="https://github.com/cgalani/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment">_dpsd19015</a> <br>
+ και Ελένη Κουλέτση  <a href="https://github.com/Kuletsi/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment">_dpsd19139</a> <br>
+ Στα Bonus 1 + 2 <br> 
+
 
 
 # Conclusions
