@@ -70,6 +70,13 @@
 
 # 3rd Deliverable 
 
+1.reacTIVation – Installation <br>
+-------------------------------------
+Ακολούθησα τις οδηγίες με την σειρά που είναι καταγεγραμένες, κατέβασα όλα τα προτεινόμενα αρχεία και εκτέλεσα το παράδειγμα ΤUIOdemo με τη χρήση Simulator αφού παρακολούθησα το <a href="https://www.youtube.com/watch?v=tJ0aZzST-N4&ab_channel=Roc%C3%ADoM%C3%A1rquez">βίντεο</a>.
+Μετέφερα το φάκελο TUIO χειροκίνητα στον φάκελο libraries του processing μου και απο το παράδειγμα TuioDump πήρα τον κώδικα:   println("add obj "+tobj.getSymbolID()+" ("+tobj.getSessionID()+") "+tobj.getX()+" "+tobj.getY()+" "+tobj.getAngle()); <br>
+και το πρόσθεσα στο TuioDemo.
+
+
 
 # Bonus 
 
