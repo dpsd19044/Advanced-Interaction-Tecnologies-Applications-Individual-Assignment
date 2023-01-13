@@ -80,16 +80,16 @@
 
 2.Image Processing Application
 ---------------------------------
-Ουσιαστικά χρησιμοποίησα το παράδειγμα TUIO demo, άλλαξα το size σε (990,990) και πρόσθεσα τρείς εικόνες από το Laptop μου. Μέσω του <a href="https://processing.org/reference/filter_.html">site</a> έμαθα τις δυνατότητες που μου δίνονται για την επιλόγη των φίλτρων και πως να τα εισάγω στον κώδικα. Δημιούργησα τα ids για ta 0,1,2,3,4 fiducials.
+Ουσιαστικά χρησιμοποίησα το παράδειγμα TUIO demo, άλλαξα το size σε (990,990) και πρόσθεσα τρείς εικόνες από το Laptop μου. Μέσω του <a href="https://processing.org/reference/filter_.html">site</a> έμαθα τις δυνατότητες που μου δίνονται για την επιλόγη των φίλτρων και πως να τα εισάγω στον κώδικα. Δημιούργησα τα ids για ta 0,1,2,3,4 fiducials. <br>
 0_IMAGE
-![00IMAGE](https://user-images.githubusercontent.com/101420117/212354612-61827b9b-6754-4e3b-8c66-030d022cac5d.png)
+![00IMAGE](https://user-images.githubusercontent.com/101420117/212354612-61827b9b-6754-4e3b-8c66-030d022cac5d.png)<br>
 
 1_IMAGE
-  ![01IMAGE](https://user-images.githubusercontent.com/101420117/212354542-2c0ec6a7-15eb-4edc-9088-3ddfce00dcd8.png)
+  ![01IMAGE](https://user-images.githubusercontent.com/101420117/212354542-2c0ec6a7-15eb-4edc-9088-3ddfce00dcd8.png)<br>
 GRAY FILTER
-![GRAY](https://user-images.githubusercontent.com/101420117/212354693-c1b073bb-189e-4af7-a821-b287cb5480bb.png)
+![GRAY](https://user-images.githubusercontent.com/101420117/212354693-c1b073bb-189e-4af7-a821-b287cb5480bb.png) <br>
 INVERTED FILTER
-![INVERTED](https://user-images.githubusercontent.com/101420117/212354742-bde1cf9a-607d-4d7e-8f42-6163d2a6e8a7.png)
+![INVERTED](https://user-images.githubusercontent.com/101420117/212354742-bde1cf9a-607d-4d7e-8f42-6163d2a6e8a7.png)<br>
 THRESHOLD FILTER
 ![THRESHOLD](https://user-images.githubusercontent.com/101420117/212354772-888e5bda-9d99-4de1-842a-719656acc4e7.png)
 
