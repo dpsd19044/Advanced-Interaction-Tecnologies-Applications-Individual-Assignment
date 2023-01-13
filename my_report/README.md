@@ -81,7 +81,7 @@
 2.Image Processing Application
 ---------------------------------
 Ουσιαστικά χρησιμοποίησα το παράδειγμα TUIO demo, άλλαξα το size σε (900,900) και πρόσθεσα τρείς εικόνες από το Laptop μου που μείωσα το μέγεθός τους στο μσό. Μέσω του <a href="https://processing.org/reference/filter_.html">site</a> έμαθα τις δυνατότητες που μου δίνονται για την επιλόγη των φίλτρων και πως να τα εισάγω στον κώδικα. Δημιούργησα τα ids για τα fiducial μέσα σε ξεχωριστά if για ta 0,1 images & 2,3,4 filters. <br>
-Αρχικά είχα κατεβάσει το reacTIVision-1.5.1-src το οποίο δεν είχε το reacTIVision.exe και μετά από ψάξημο και κατα τύχη κατέβασα το reacTIVision για Window 7 παρόλο που έχω τα 11 και λειτούργησε κανονικά.
+Αρχικά είχα κατεβάσει το reacTIVision-1.5.1-src το οποίο δεν είχε το reacTIVision.exe και μετά από ψάξημο και κατα τύχη κατέβασα το reacTIVision για Window 7 παρόλο που έχω τα 11 και λειτούργησε κανονικά. <br>
 0_IMAGE
 ![00IMAGE](https://user-images.githubusercontent.com/101420117/212354612-61827b9b-6754-4e3b-8c66-030d022cac5d.png)
 
